@@ -1,6 +1,6 @@
 <template>
-  <div class="app">
-
+  <div>
+    <h1>Wiki Countries</h1>
   </div>
 </template>
 

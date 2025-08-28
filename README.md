@@ -49,9 +49,9 @@ Clean the `App.vue` component so that it has the following structure inside the 
 
 ## Instructions
 
-### Iteration 0 | vue Router installation
+### Iteration 0 | Configure Vue Router
 
-Remember to install the vue Router:
+Remember to install the [vue Router](https://router.vuejs.org/):
 
 ```shell
 $ yarn install vue-router
